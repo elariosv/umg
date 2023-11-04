@@ -45,7 +45,7 @@ function ResponsiveAppBar() {
       <Container maxWidth="xl">
         <Toolbar disableGutters>
           <AdbIcon sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }} />
-          <Link to={'/'} style={{textDecoration: "none", color: "#fff"}}>
+          <Link to={'/umg'} style={{textDecoration: "none", color: "#fff"}}>
 
             <Typography
               variant="h6"
