@@ -1,0 +1,24 @@
+/* Menu.scss */
+
+/* Estilos para la barra de navegación */
+
+$menu-color: #04203B !important;
+.app-bar {
+    background: menu-color;
+  }
+  
+  /* Estilos para el ícono del menú */
+  .menu-icon {
+    color: #fff;
+  }
+  
+  /* Estilos para el título */
+  .menu-title {
+    flex-grow: 1;
+  }
+  
+  /* Estilos para los botones de navegación */
+  .menu-button {
+    color: #fff;
+  }
+  
