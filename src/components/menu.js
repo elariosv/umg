@@ -15,7 +15,9 @@ import AdbIcon from '@mui/icons-material/Adb';
 import { Link } from 'react-router-dom';
 
 const pagesList = [
-    { name: 'Human Resources', link: '/human-resources' }
+    { name: 'Human Resources', link: '/human-resources' },
+    { name: 'Filesharing', link: '/filesharing' },
+    { name: 'Calendar', link: '/calendar' }
   ];
 console.log(pagesList)  
   
